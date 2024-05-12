@@ -5,7 +5,8 @@ You are developing a graphic design app, picking colors is essentails in such ap
 
 The design as shown below and server response are as in the [json file here](/assets/data.json).
 
-<video width="400" controls src="assets/demo.mp4" title="The design"></video> 
+https://github.com/appchief/Challenge001/assets/17670201/380507b4-f805-4101-b19d-187d69f3a178
+
 
 ## Notes:
 
